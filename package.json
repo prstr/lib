@@ -1,6 +1,6 @@
 {
   "name": "prostore.lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ProStore Shared Library",
   "main": "src/index.js",
   "dependencies": {
