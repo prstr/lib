@@ -13,7 +13,8 @@
     "rho": "*",
     "json-matter": "*",
     "debug": "*",
-    "lodash.assign": "*"
+    "lodash.assign": "*",
+    "express": "*"
   },
   "devDependencies": {
     "eslint": "*",
