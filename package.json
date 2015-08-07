@@ -23,7 +23,7 @@
     "pretest": "eslint ."
   },
   "pre-commit": [
-    "test"
+    "pretest"
   ],
   "repository": {
     "type": "git",
