@@ -6,7 +6,14 @@
   "dependencies": {
     "fs-extra": "*",
     "async": "*",
-    "prostore.glob-utils": "*"
+    "prostore.glob-utils": "*",
+    "prostore.currency": "*",
+    "prostore.pluralize": "*",
+    "fallback": "*",
+    "rho": "*",
+    "json-matter": "*",
+    "debug": "*",
+    "lodash.assign": "*"
   },
   "devDependencies": {
     "eslint": "*",
