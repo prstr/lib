@@ -1,0 +1,35 @@
+{
+  "name": "prostore.lib",
+  "version": "0.0.1",
+  "description": "ProStore Shared Library",
+  "main": "src/index.js",
+  "dependencies": {
+    "fs-extra": "*",
+    "async": "*",
+    "prostore.glob-utils": "*"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "pre-commit": "*"
+  },
+  "scripts": {
+    "pretest": "eslint ."
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:prstr/lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prstr/lib/issues"
+  },
+  "keywords": [
+    "prostore",
+    "library",
+    "utils"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC"
+}
